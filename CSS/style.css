@@ -16,10 +16,12 @@ main {
 }
 
 p {
-  color: 2A2B2A;
+  color: cyan;
   fontsize: 1.8rem;
 }
 
 img {
   max-width: 400px;
 }
+
+
